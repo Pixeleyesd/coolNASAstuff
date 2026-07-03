@@ -1,4 +1,5 @@
 const API_KEY = import.meta.env.VITE_NASA_API_KEY;
+const date = document.querySelector("#datepicker").value;
 
 document.querySelector('#app').innerHTML =  "<p>loading...</p>";
 
