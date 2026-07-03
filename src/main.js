@@ -11,7 +11,7 @@ app.innerHTML = `
     <h2>Near Earth Objects (today)</h2>
     <p>Loading...</p>
   </section>
-
+  
   <section id="nasa-library">
     <h2>Latest from the NASA Image and Video Library</h2>
     <p>Loading...</p>
